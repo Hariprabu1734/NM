@@ -1,0 +1,21 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    }
+    
+    h1 {
+    color: #00698f;
+    }
+    
+    #click-me {
+    background-color: #fc0595;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+    
+    #click-me:hover {
+    background-color: #3e8e41;
+    } 
